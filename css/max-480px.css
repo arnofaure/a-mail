@@ -84,3 +84,7 @@
 #write-panel {
     overflow: auto;
 }
+
+.github-corner {
+  display: none;
+}
